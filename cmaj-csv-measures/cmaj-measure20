@@ -1,0 +1,32 @@
+0, 0, Header, 1, 1, 480
+1, 0, Start_track
+1, 0, Time_signature, 4, 2, 24, 8
+1, 0, Key_signature, 0, "major"
+1, 0, Tempo, 500000
+1, 0, Control_c, 0, 121, 0
+1, 0, Program_c, 0, 0
+1, 0, Control_c, 0, 7, 100
+1, 0, Control_c, 0, 10, 64
+1, 0, Control_c, 0, 91, 0
+1, 0, Control_c, 0, 93, 0
+1, 0, MIDI_port, 0
+1, 0, Note_on_c, 0, 79, 80
+1, 227, Note_on_c, 0, 79, 0
+1, 240, Note_on_c, 0, 76, 80
+1, 467, Note_on_c, 0, 76, 0
+1, 480, Note_on_c, 0, 77, 80
+1, 627, Note_on_c, 0, 77, 0
+1, 640, Note_on_c, 0, 79, 80
+1, 787, Note_on_c, 0, 79, 0
+1, 800, Note_on_c, 0, 77, 80
+1, 947, Note_on_c, 0, 77, 0
+1, 960, Note_on_c, 0, 76, 80
+1, 1187, Note_on_c, 0, 76, 0
+1, 1200, Note_on_c, 0, 72, 80
+1, 1427, Note_on_c, 0, 72, 0
+1, 1440, Note_on_c, 0, 69, 80
+1, 1667, Note_on_c, 0, 69, 0
+1, 1680, Note_on_c, 0, 67, 80
+1, 1907, Note_on_c, 0, 67, 0
+1, 1908, End_track
+0, 0, End_of_file
